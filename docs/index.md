@@ -1,4 +1,6 @@
-# My great website about cats
+I am Jihye Heo
+
+I am a graduate student at vanderbilt university
 
 ![a picture of a pretty cat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tabby-cat-sleeping.jpg/256px-Tabby-cat-sleeping.jpg)
 
