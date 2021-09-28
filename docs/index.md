@@ -4,8 +4,8 @@
 
 Picture by EDG 543, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
-![a picture of a pretty cat2](coco1.jpeg)
-Picture by jihye, CC 0
+<!---![a picture of a pretty cat2](coco1.jpeg)
+Picture by jihye, CC 0--->
 
 Don't you wish you had a cat? Actually, I **don't** want one.
 
